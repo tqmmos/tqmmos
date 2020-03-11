@@ -4,7 +4,7 @@ Priority: required
 Section: Packaging
 Maintainer: CoolStar <coolstarorganization@gmail.com>
 Architecture: iphoneos-arm
-Version: 1.8.0-1
+Version: 1.8.2-1
 Pre-Depends: dpkg (>= 1.18)
 Replaces: apt7-lib
 Conflicts: apt7-ssl
