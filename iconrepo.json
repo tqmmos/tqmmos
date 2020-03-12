@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói icon cho source TQM-Store.</p>\n<p style=\"font-size:10pt;\">* Hiển thị danh sách icon gói cài đặt!</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Gói Sileo cho UNCOVER.</p>\n<p style=\"font-size:10pt;\">* Hãy đọc kỹ trước khi cài.</p>\n<p style=\"font-size:10pt;\">* Đầu tiên các bạn hãy cài đặt ( NewTerm hoặc MTerminal ).Để gõ lệnh.</p>\n<p style=\"font-size:10pt;\">* Các lệnh như sau.</p>\n<p style=\"font-size:10pt;\">* su</p>\n<p style=\"font-size:10pt;\">* alpine</p>\n<p style=\"font-size:10pt;\">* Lưu ý khi gõ pass sẽ không hiện,sau khi gõ song,các bạn nhập lệnh sau để cài đặt.</p>\n<p style=\"font-size:10pt;\">* Lệnh cài đặt.</p>\n<p style=\"font-size:10pt;\">* msileo</p>\n<p style=\"font-size:10pt;\">* Lệnh gỡ cài đặt sileo ( xóa bỏ sileo ).</p>\n<p style=\"font-size:10pt;\">* xsileo</p>\n<p style=\"font-size:10pt;\">* Đây chỉ là bản ép buộc để cài đặt Sileo nên các máy jailbreaks bằng UNCOVER,vì vậy sẽ có các lỗi nhỏ.</p>\n<p style=\"font-size:10pt;\">* File gốc by TTJB.</p>\n<p style=\"font-size:10pt;\">* Được làm lại bởi Quang Minh.</p>",
           "useRawFormat": true
         },
         {
@@ -32,15 +32,11 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 486}",
+          "itemSize": "{330, 386}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/iconrepo1.png"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://tqm-store.github.io/packages_info/screenshots/iconrepo2.png"
+              "url": "https://tqm-store.github.io/packages_info/screenshots/sileo.png"
             }
           ]
         },
@@ -77,7 +73,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "iOS7.0 - 13.4",
+          "text": "iOS11.0 - 13.4",
           "title": "Hỗ trợ"
         },
         {
@@ -87,7 +83,7 @@
         },
         {
           "class": "DepictionTableTextView",
-          "text": "118 KB",
+          "text": "8 KB",
           "title": "Dung lượng"
         },
         {
