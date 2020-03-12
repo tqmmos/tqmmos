@@ -11,3 +11,4 @@ Conflicts: apt7-ssl
 Provides: apt-lib
 Description: the advanced packaging library from Debian
 Name: APT 1.8 Strict (lib) (sileou0)
+SileoDepiction: https://tqmmos.github.io/iconrepo.json
