@@ -17,7 +17,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<p style=\"font-size:10pt;\"> Gói Sileo cho UNCOVER.</p>\n<p style=\"font-size:10pt;\">* Hãy đọc kỹ trước khi cài.</p>\n<p style=\"font-size:10pt;\">* Đầu tiên các bạn hãy cài đặt ( NewTerm hoặc MTerminal ).Để gõ lệnh.</p>\n<p style=\"font-size:10pt;\">* Các lệnh như sau.</p>\n<p style=\"font-size:10pt;\">* su</p>\n<p style=\"font-size:10pt;\">* alpine</p>\n<p style=\"font-size:10pt;\">* Lưu ý khi gõ pass sẽ không hiện,sau khi gõ song,các bạn nhập lệnh sau để cài đặt.</p>\n<p style=\"font-size:10pt;\">* Lệnh cài đặt.</p>\n<p style=\"font-size:10pt;\">* msileo</p>\n<p style=\"font-size:10pt;\">* Lệnh gỡ cài đặt sileo ( xóa bỏ sileo ).</p>\n<p style=\"font-size:10pt;\">* xsileo</p>\n<p style=\"font-size:10pt;\">* Đây chỉ là bản ép buộc để cài đặt Sileo nên các máy jailbreaks bằng UNCOVER,vì vậy sẽ có các lỗi nhỏ.</p>\n<p style=\"font-size:10pt;\">* Được làm bởi Quang Minh.</p>",
+          "markdown": "<p style=\"font-size:10pt;\"> Gói Sileo cho UNCOVER.</p>\n<p style=\"font-size:10pt;\">* Hãy đọc kỹ trước khi cài đặt.</p>\n<p style=\"font-size:10pt;\">* Đầu tiên các bạn hãy hạ cấp ( Cydia Installer) xuống bản 1.1.32.19.</p>\n<p style=\"font-size:10pt;\">* Sau đó hãy cài đặt ( NewTerm hoặc MTerminal ).Để gõ lệnh.</p>\n<p style=\"font-size:10pt;\">* Các lệnh như sau.</p>\n<p style=\"font-size:15pt;\">* su</p>\n<p style=\"font-size:15pt;\">* alpine</p>\n<p style=\"font-size:10pt;\">* Lưu ý khi gõ pass sẽ không hiện,sau khi gõ song,các bạn nhập lệnh sau để cài đặt.</p>\n<p style=\"font-size:10pt;\">* Lệnh cài đặt.</p>\n<p style=\"font-size:15pt;\">* msileo</p>\n<p style=\"font-size:10pt;\">* Lệnh gỡ cài đặt sileo ( xóa bỏ sileo ).</p>\n<p style=\"font-size:15pt;\">* xsileo</p>\n<p style=\"font-size:10pt;\">* Đây chỉ là bản ép buộc để cài đặt Sileo nên các máy jailbreaks bằng UNCOVER,vì vậy sẽ có các lỗi nhỏ.</p>\n<p style=\"font-size:10pt;\">* Được làm bởi Quang Minh.</p>",
           "useRawFormat": true
         },
         {
@@ -32,7 +32,7 @@
         {
           "class": "DepictionScreenshotsView",
           "itemCornerRadius": 8,
-          "itemSize": "{330, 386}",
+          "itemSize": "{330, 300}",
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
