@@ -10,6 +10,6 @@ Pre-Depends: debianutils, dpkg (>= 1.18)
 Description: Chỉ là bản làm lại dùng song song SILEO và CYDIA khi Jailbreaks  bằng UNCOVER
 Name: Sileo Mos
 Author: Sileo Team <getsileoapp@gmail.com>
-SileoDepiction: https://tqmmos.github.io/sileo.json
-Depiction: https://tqm-store.github.io/packages_info/sileou0/?p=info
+SileoDepiction: https://tqmmos.github.io/siun.json
+Depiction: https://tqm-store.github.io/packages_info/siun/?p=info
 
