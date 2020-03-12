@@ -1,0 +1,9 @@
+Package: apt-lib 
+Section: Packaging
+Maintainer: @tqmmos <anhminh311105@gmail.com>
+Architecture: iphoneos-arm
+Version: 1.8.2-1
+Name: APT Strict (lib) (sileou0) 
+Author: @tqmmos <anhminh311105@gmail.com>
+Description: Gói phụ trợ cho Sileo UNCOVER
+SileoDepiction: https://tqm-mos.github.io/Mos/sileo

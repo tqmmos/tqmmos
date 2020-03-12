@@ -1,4 +1,4 @@
-Package: com.tqm.sileo
+Package: com.tqm-mos.sileo
 Priority: required
 Section: Packaging
 Maintainer: CoolStar <coolstarorganization@gmail.com>
@@ -7,6 +7,8 @@ Version: 1.5.0
 Depends: org.swift.libswift, zsh
 Conflicts: cydia-gui (<<99.0)
 Pre-Depends: debianutils, dpkg (>= 1.18)
-Description: A proper APT client for iOS 11 and higher. (View this package in Sileo to see the full depiction)
-Name: Sileo
+Description: Chỉ là bản làm lại dùng song song SILEO và CYDIA khi Jailbreaks  bằng UNCOVER
+Name: Sileo Mos
 Author: Sileo Team <getsileoapp@gmail.com>
+SileoDepiction: https://tqm-mos.github.io/Mos/sileo
+
