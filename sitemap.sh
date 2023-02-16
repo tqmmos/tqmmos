@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # url configuration
-URL="https://tqm-mos.tk/"
+URL="https://tqm-store.tk/"
 
 # values: always hourly daily weekly monthly yearly never
 FREQ="weekly"
