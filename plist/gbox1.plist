@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.esign</string>
+				<string>com.tqm.gbox</string>
 				<key>bundle-version</key>
 				<string>3.7.3</string>
 				<key>kind</key>
