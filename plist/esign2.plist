@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.esign</string>
+				<string>com.tqm.esign2</string>
 				<key>bundle-version</key>
-				<string>4.7.5</string>
+				<string>4.8.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>

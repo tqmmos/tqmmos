@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tqm.gbox</string>
+				<string>com.tqm.gbox1</string>
 				<key>bundle-version</key>
-				<string>3.7.3</string>
+				<string>4.3.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
