@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ipa.github.io/icon/dangtai.png</string>
+					<string>http://tqm-mos.com/icon/dangtai.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://tqm-ipa.github.io/icon/scarlet.png</string>
+					<string>http://tqm-mos.com/icon/scarlet.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>bundle-identifier</key>
 				<string>com.tqm.scarlet1</string>
 				<key>bundle-version</key>
-				<string>3.7.3</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
